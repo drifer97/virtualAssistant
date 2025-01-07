@@ -28,7 +28,7 @@ Este projeto é um assistente virtual simples chamado Elana, capaz de reconhecer
    ```
 3. Execute o script Python:
    ```bash
-   python elana.py
+   python speech2text.py
    ```
 4. Interaja com o assistente via comandos de voz.
 
